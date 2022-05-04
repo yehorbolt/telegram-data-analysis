@@ -24,3 +24,7 @@ In this situation, we used:
 Bolotov Yehor,[yehorbolt](https://github.com/yehorbolt) 
 
 # Instruction and requirements
+
+Instructions for use are simple - open the file [tg-data-analysis.ipynb](tg-data-analysis.ipynb) 
+
+When downloading the repository, you need Python and a Jupiter Notebook to use.
