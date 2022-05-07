@@ -21,7 +21,7 @@ In this situation, we used:
 
 # Team
 
-Bolotov Yehor,[yehorbolt](https://github.com/yehorbolt) 
+Bolotov Yehor, [yehorbolt](https://github.com/yehorbolt) 
 
 # Instruction and requirements
 
