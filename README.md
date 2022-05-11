@@ -17,6 +17,7 @@ In this situation, we used:
 
 * **Using the group information database**
 1. Group/Private dialog /Channel ratio in Telegram
+2. Group Size Comparison
 2. Compare first letters of private chat and group names
 
 # Team
